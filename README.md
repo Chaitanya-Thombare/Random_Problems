@@ -22,3 +22,5 @@ PINS.c -> https://www.codechef.com/problems/PINS
 TRUEDARE.c -> https://www.codechef.com/problems/TRUEDARE
 
 UCL.c -> https://www.codechef.com/problems/UCL
+
+N meetings in One Room -> https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#
